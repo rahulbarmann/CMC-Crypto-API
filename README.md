@@ -28,4 +28,4 @@ In case you want to download your own libraries for node.js,
 use `npm init -y` to initialise.
 then use `npm install cheerio axios --save` to install the required libraries.
 
-And you're good to go! `Happy Coding!!!`
+And you're good to go! `Happy Coding!`
