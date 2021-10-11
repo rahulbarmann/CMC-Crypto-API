@@ -11,7 +11,7 @@ You can use the code runner extension in vs code or type (python main.py) wihtou
 
                                                   EXPLANATION
     
-    So, what final.js does is that it pulls the required data from the https://coinmarketcap.com/new/ url and 
+    So, what index.js does is that it pulls the required data from the https://coinmarketcap.com/new/ url and 
     puts it in a raw JSON format and stores it in the Obj.json file.
 
     The main.py file parses the raw json data into readable format and refreshes in the given frame time input
