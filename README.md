@@ -16,3 +16,6 @@ You can use the code runner extension in vs code or type (python main.py) wihtou
 
     The main.py file parses the raw json data into readable format and refreshes in the given frame time input
     by the user. It controls all the other files present in the directory.
+    
+    The data that is being pulled by index.js is the latest listings from the CoinMarketCap website and then 
+    being shown in a nicely formatted manner using main.py
